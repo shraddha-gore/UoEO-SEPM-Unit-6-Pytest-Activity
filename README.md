@@ -57,9 +57,13 @@ def test_wallet_spend_cash_raises_exception_on_insufficient_amount():
 
 Run the tests using the command: `pytest -q test_wallet.py` .You should see the following output:
 
+![before](https://github.com/user-attachments/assets/3ce53a45-ab97-420e-8c79-3b64d8421c14)
+
 Amend the code so that the tests fail.
 
 # Results
+
+![after](https://github.com/user-attachments/assets/e260c91a-474b-4603-af4f-b4273e2f1767)
 
 The changes are included in the `modified_wallet.py` file. The test failures and their reasons are listed below:
 
